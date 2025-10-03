@@ -21,7 +21,7 @@ It comes with features like **search filtering, product listing, add-to-cart, an
 - **Google Fonts** (Playfair Display, Poppins)  
 
 ---
-'''
+```
 # Project Structure  
 LUXE/
 │
@@ -30,4 +30,4 @@ LUXE/
 ├── script.js # Product rendering, search, and cart logic
 ├── images/ # Product images (Sony, Nike, Chanel, etc.)
 └── README.md # Documentation 
-'''
+```
