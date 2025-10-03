@@ -22,7 +22,7 @@ It comes with features like **search filtering, product listing, add-to-cart, an
 
 ---
 ```
-# Project Structure  
+Project Structure  
 LUXE/
 │
 ├── index.html # Main HTML file
